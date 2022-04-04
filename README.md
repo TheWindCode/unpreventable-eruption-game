@@ -4,6 +4,6 @@
 
 It was made in Unity 2022.2.12f1, using URP.
 
-[Itch.io page](https://thewindcode.itch.io/unpreventable-eruption)
+[Itch.io game page](https://thewindcode.itch.io/unpreventable-eruption)
 
-[Ludum Dare submission page]()
+[Ludum Dare submission page](https://ldjam.com/events/ludum-dare/50/unpreventable-eruption)
